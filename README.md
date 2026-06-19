@@ -70,4 +70,4 @@ opage deploy ./dist --site my-app
 
 ## License
 
-MIT — [Unplug.io](https://unplug.io)
+MIT — [kartast](https://github.com/kartast)

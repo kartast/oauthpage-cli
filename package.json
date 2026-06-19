@@ -39,11 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unplug-io/oauthpage-cli.git"
+    "url": "https://github.com/kartast/oauthpage-cli.git"
   },
   "homepage": "https://oauth.page",
   "bugs": {
-    "url": "https://github.com/unplug-io/oauthpage-cli/issues"
+    "url": "https://github.com/kartast/oauthpage-cli/issues"
   },
-  "author": "Unplug.io"
+  "author": "kartast"
 }
