@@ -1,7 +1,7 @@
 {
   "name": "oauthpage",
   "version": "0.1.0",
-  "description": "CLI for OAuthPage \u2014 protect any website with OAuth",
+  "description": "CLI for OAuthPage — protect any website with OAuth",
   "bin": {
     "oauthpage": "./bin/oauthpage",
     "opage": "./bin/oauthpage"
@@ -21,7 +21,7 @@
     "access-control",
     "cli"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "files": [
     "dist",
     "bin"

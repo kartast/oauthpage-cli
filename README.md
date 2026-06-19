@@ -70,4 +70,4 @@ opage deploy ./dist --site my-app
 
 ## License
 
-MIT — [kartast](https://github.com/kartast)
+Apache-2.0 — [kartast](https://github.com/kartast)
